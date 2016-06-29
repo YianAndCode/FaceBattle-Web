@@ -2,7 +2,7 @@
 
 > 2016 SegmentFault & AngleHack Hackathon 作品
 
-![Logo](icon.png)
+![Logo](Icon.png)
 
 本作品基于“微软牛津计划” API 实现，客户端有 Windows 10 UWP(Desktop & Mobile)/Android/iOS 三个版本。当前项目为后端部分。
 
