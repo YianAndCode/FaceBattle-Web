@@ -7,7 +7,7 @@ class Emotion
 {
     private $key;
 
-    function __construct($key = 'your_key_here')
+    function __construct($key = '')
     {
         $this->key = $key;
     }
@@ -43,3 +43,6 @@ class Emotion
         return $response;
     }
 }
+
+/*$test = new Emotion('');
+var_dump($test->getEmotionScore('https://raw.githubusercontent.com/Microsoft/ProjectOxford-ClientSDK/master/Face/Windows/Data/detection3.jpg'));*/
