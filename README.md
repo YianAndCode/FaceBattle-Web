@@ -11,6 +11,8 @@ UWP Client 项目地址：https://github.com/JuniperPhoton/FaceBattleUWP
 
 iOS Client 项目地址：https://github.com/KinoAndWorld/FaceBattle
 
+Android Client 项目地址：https://github.com/ChinaLinda/FaceBattleAndroid
+
 ---
 
 ## 使用方法
